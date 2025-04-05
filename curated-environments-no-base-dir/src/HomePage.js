@@ -82,7 +82,6 @@ export default function HomePage() {
       <ul className="list-disc pl-6 mt-2 text-sm text-center md:text-left">
         <li>Students</li>
       </ul>
-    </li>
 </div>
 </section>
 
