@@ -82,10 +82,10 @@ export default function HomePage() {
       <ul className="list-disc pl-6 mt-2 text-sm text-center md:text-left">
         <li>Students</li>
       </ul>
-</div>
+    </li>
 </section>
 
-      <section id="socials" className="py-16 px-6 text-center"><div initial={{ opacity: 0, y: 50 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}>
+      <section id="socials" className="py-16 px-6 text-center">
         <h2 className="text-3xl font-bold mb-6">Connect With Us</h2>
         <div className="flex flex-col gap-4 text-lg text-blue-600">
           <a href="https://www.youtube.com/@CuratedEnvironments" target="_blank" rel="noopener noreferrer" className="hover:underline">YouTube</a>
