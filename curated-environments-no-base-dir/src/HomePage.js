@@ -83,7 +83,6 @@ export default function HomePage() {
         <li>Students</li>
       </ul>
     </li>
-  </ul>
 </div>
 </section>
 
